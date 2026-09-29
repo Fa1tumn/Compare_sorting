@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.deps/
+tmp/
+.venv/
+*.zip
+output/
